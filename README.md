@@ -1,19 +1,18 @@
 <div align="center">
 
-## Saksham Pahariya
+# Saksham Pahariya
 
 **`AI/ML Engineer · Full Stack Developer`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshampahariya)
-
+&nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://spahariya.me)
-
+&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sakshampahariya84@gmail.com)
-
+&nbsp;&nbsp;
 [![Oracle AI Certified](https://img.shields.io/badge/Oracle_AI_Certified-F80000?style=flat&logo=oracle&logoColor=white)](#)
-
+&nbsp;&nbsp;
 ![Open to Internships](https://img.shields.io/badge/🟢_Open_to-AI/ML_%26_FS_Internships-1D9E75?style=flat)
-
 </div>
 
 ---
@@ -112,18 +111,6 @@ Python · JavaScript · TypeScript · SQL · Java · C++
 | ☁️ **Oracle Certified** | AI Foundations Associate 2025 — Cloud & ML Infrastructure |
 | 👥 **Community Leadership** | Founded & led **600+ member** Python & Web Dev community |
 | 🔬 **Student Researcher** | Built diagnostic AI platform on **8,000+ real samples** |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshampahariya&show_icons=true&theme=default&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshampahariya&layout=compact&theme=default&hide_border=true&langs_count=6)
-
-</div>
 
 ---
 
