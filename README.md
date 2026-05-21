@@ -17,11 +17,11 @@
 
 ---
 
-I build things at the intersection of **intelligent systems and production software** — LLM pipelines, multi-agent workflows, RAG architectures, and full-stack web apps that actually ship.
+I build things at the intersection of **intelligent systems and production software** - LLM pipelines, multi-agent workflows, RAG architectures, and full-stack web apps that actually ship.
 
-- 🎓 **B.Tech IT @ MITS Gwalior** + **BS Data Science @ IIT Madras** — simultaneously
-- 💼 Ex **LLM Post-Training Intern @ Ethara AI** — RLHF, model evaluation, training data reliability
-- 🔬 **Student Researcher @ MITS** — ensemble ML on 8,000+ samples, diagnostic AI platform
+- 🎓 **B.Tech IT @ MITS Gwalior** + **BS Data Science @ IIT Madras** - simultaneously
+- 💼 Ex **LLM Post-Training Intern @ Ethara AI** - RLHF, model evaluation, training data reliability
+- 🔬 **Student Researcher @ MITS** - ensemble ML on 8,000+ samples, diagnostic AI platform
 - 🏆 **HackIndore #7 / 200+ teams** · **NPTEL Gold Top 2%** · **Oracle AI Foundations Certified**
 - 👥 Founded & led a **600+ member** Python & Web Dev community
 
@@ -123,9 +123,9 @@ If you're building something with LLMs, RAG, agents, or just need a solid full-s
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshampahariya)
-
+&nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://spahariya.me)
-
+&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshampahariya84@gmail.com)
 
 </div>
